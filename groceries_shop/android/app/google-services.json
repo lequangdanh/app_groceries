@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521149345516",
+    "project_id": "fir-grocery-e8040",
+    "storage_bucket": "fir-grocery-e8040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521149345516:android:f2d219470d8b2545b17fc9",
+        "android_client_info": {
+          "package_name": "com.example.groceries_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521149345516-4h71uvbdnofpf00bmgmc37ia0fdaudnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6CePg4zr1e6YLgRZRyKhAjVLckGXockw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521149345516-4h71uvbdnofpf00bmgmc37ia0fdaudnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
